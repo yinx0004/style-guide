@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #===============================================================================
 # Bash Script Template
 # Author: Sherry Yin
